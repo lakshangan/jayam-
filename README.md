@@ -1,2 +1,2 @@
-# jayam-
+# jayam
 website for jayam institution
